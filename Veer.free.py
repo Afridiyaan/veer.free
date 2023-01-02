@@ -721,14 +721,14 @@ try:
 	if f'com.h{t}pc{a}y.pro' in fileee:
 		print('error occur 0')
 		#exit()
-		#exit(f'\nsomethiiing went wrong\n\nContact Admin : +923197951815')
-except Exception as e:
-	print(e)
-	pass
-except PermissionError:
-	pass
+		#exit(f'\nsomethiiing went wrong\n\nContact Admin : +923424080882')
+
 	
-if not os.path.exists('.fam'):
-	qsbuy()
-else:
-	qsbuy()
+	
+
+	
+	
+
+	
+
+	
